@@ -83,7 +83,7 @@
 
 ## 🎒 Образование
 
-[<img src="/Middle_Sertificate_rus.png" width="280px" hspace="10px" alt="Сертификат»">]([https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png](https://raw.githubusercontent.com/Axceller755/Axceller755/refs/heads/main/Middle_Sertificate_rus.png))
+[<img src="/Middle_Sertificate_rus.png" width="280px" hspace="10px" alt="Сертификат»">]([https://raw.githubusercontent.com/Axceller755/Axceller755/refs/heads/main/Middle_Sertificate_rus.png])
 <br>
 <br>
 
