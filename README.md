@@ -83,7 +83,7 @@
 
 ## 🎒 Образование
 
-https://raw.githubusercontent.com/Axceller755/Axceller755/refs/heads/main/Middle_Sertificate_rus.png
+![image](https://raw.githubusercontent.com/Axceller755/Axceller755/refs/heads/main/Middle_Sertificate_rus.png)
 <br>
 <br>
 
