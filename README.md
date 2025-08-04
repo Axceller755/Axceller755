@@ -77,10 +77,6 @@
 
 <br>
 
-## 🪴 Практика и стажировка
-
-<br>
-
 ## 🎒 Образование
 
 [<img src="/Middle_Sertificate.png" width="280px" hspace="10px" alt="Сертификат»">]([https://raw.githubusercontent.com/Axceller755/Axceller755/refs/heads/main/Middle_Sertificate.png])
